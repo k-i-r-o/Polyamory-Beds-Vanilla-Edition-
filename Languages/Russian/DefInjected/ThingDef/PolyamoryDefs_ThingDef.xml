@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/PolyamoryDefs.xml-->
+                     <!-- triple sleeping spot -->
+<TripleSleepingSpot.label>трехместное спальное место</TripleSleepingSpot.label>
+                           <!-- Designates a spot on the ground where three people should sleep together. Not comfortable. -->
+<TripleSleepingSpot.description>Обозначает место на земле, где три человека должны спать вместе. Не очень удобно.</TripleSleepingSpot.description>
+                   <!-- quadra sleeping spot -->
+<QuadSleepingSpot.label>четырехместное спальное место</QuadSleepingSpot.label>
+                         <!-- Designates a spot on the ground where four people should sleep together. Not comfortable. -->
+<QuadSleepingSpot.description>Обозначает место на земле, где четыре человека должны спать вместе. Не очень удобно.</QuadSleepingSpot.description>
+                <!-- triple bedroll -->
+<BedrollTriple.label>трехместный спальный мешок</BedrollTriple.label>
+                      <!-- A simple triple-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+<BedrollTriple.description>Простая кровать трехместной ширины, стоящая на полу, обычно сделанная из ткани или кожи, часто подбитая мехом. Она легкая и может быть свернута для удобства транспортировки, но она не так удобна, как обычная кровать. В караванах можно использовать спальные мешки во время путешествия для лучшего сна.</BedrollTriple.description>
+              <!-- quadra bedroll -->
+<BedrollQuad.label>четырехместный спальный мешок</BedrollQuad.label>
+                    <!-- A simple quadra-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+<BedrollQuad.description>Простая кровать шириной в четыре метра, стоящая на полу, обычно сделанная из ткани или кожи, часто подбитая мехом. Она легкая и может быть свернута для удобства транспортировки, но она не так удобна, как обычная кровать. В караванах можно использовать спальные мешки во время путешествия для лучшего сна.</BedrollQuad.description>
+            <!-- triple bed -->
+<TripleBed.label>трехместная кровать</TripleBed.label>
+                  <!-- A simple triple-wide bed that fits three people. -->
+<TripleBed.description>Простая трехместная кровать, на которой могут разместиться три человека.</TripleBed.description>
+          <!-- quadra bed -->
+<QuadBed.label>четырехместная кровать</QuadBed.label>
+                <!-- A simple quadra-wide bed that fits four people. -->
+<QuadBed.description>Простая кровать шириной в четыре метра, на которой могут разместиться четыре человека.</QuadBed.description>
+                 <!-- triple royal bed -->
+<TripleRoyalBed.label>трехместная королевская кровать</TripleRoyalBed.label>
+                       <!-- A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits three. -->
+<TripleRoyalBed.description>Роскошная кровать с золотой инкрустацией, подходящая для высокородных. Очень удобная и красивая, она сама по себе является произведением искусства. Подходит для троих.</TripleRoyalBed.description>
+               <!-- quadra royal bed -->
+<QuadRoyalBed.label>четырехместная королевская кровать</QuadRoyalBed.label>
+                     <!-- A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits four. -->
+<QuadRoyalBed.description>Роскошная кровать с золотой инкрустацией, подходящая для высокородных. Очень удобная и красивая, она сама по себе является произведением искусства. Подходит для четырех человек.</QuadRoyalBed.description>
+                <!-- penta royal bed -->
+<PentaRoyalBed.label>пятиместная королевская кровать</PentaRoyalBed.label>
+                      <!-- A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits five. -->
+<PentaRoyalBed.description>Роскошная кровать с золотой инкрустацией, подходящая для высокородных. Очень удобная и красивая, она сама по себе является произведением искусства. Подходит для пятерых.</PentaRoyalBed.description>
+
+</LanguageData>
